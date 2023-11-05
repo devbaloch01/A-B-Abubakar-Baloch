@@ -10,8 +10,10 @@
   </a>
 </p>
    
-   
- href="https://whatsapp.com/channel/0029Va99lcP8kyyHnPRoXx2a" target="_blank">
+  </p>
+<p align="center"><img src="https://profile-counter.glitch.me/{A-B-Abubakar-Baloch}/count.svg" alt="A-B-Abubakar-Baloch :: Visitor's Count" /></p>
+<p align="center">
+ <a href="https://whatsapp.com/channel/0029Va99lcP8kyyHnPRoXx2a" target="_blank">
     <img alt="whatsapp Channel" src="https://img.shields.io/badge/ Whatsapp Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
