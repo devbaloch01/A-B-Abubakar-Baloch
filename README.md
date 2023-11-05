@@ -21,8 +21,8 @@
 ***[Deploy To Heroku](https://dashboard.heroku.com/new?button-url=https://github.com/devbaloch12/secktor-md&template=https://github.com/devbaloch12/secktor-md.git)***
 
 
-
-a href="https://youtube.com/watch?v=3nRlAHMJuOg">
+<p align="center">  
+  <a href="https://youtube.com/watch?v=3nRlAHMJuOg">
     <img alt="devbaloch docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
     <h1 align="center">Tap on above Image</h1>
   </a>
