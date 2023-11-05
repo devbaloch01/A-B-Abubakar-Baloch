@@ -16,7 +16,7 @@ global.website = 'https://github.com/SamPandey001/Secktor-Md' //wa.me/+910000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
   botname: process.env.BOT_NAME || 'A B Abubakar Baloch',
-  ownername:process.env.OWNER_NAME || 'Devbaloch',
+  ownername:process.env.OWNER_NAME || 'Abubakar Baloch',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
