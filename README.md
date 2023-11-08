@@ -20,26 +20,14 @@
   <a href="https://youtube.com/watch?v=3nRlAHMJuOg">
     <img alt="devbaloch docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
     <h1 align="center">
-
 ***Click [`FORK`](https://github.com/devbaloch01/A-B-Abubakar-Baloch/fork) and `Star ⭐ Repository` if you Like that Bot.***
-
 ***DEPLOY ON [`HEROKU`](https://dashboard.heroku.com/new?template=)***
-
-
 ***Use This Public Key .!***
-```
-HEROKU API KEY
-
+```HEROKU API KEY
 HEROKU APP NAME
-
 SESSION ID
-```
-- Star ⭐ repo if you like this bot.
-
-
-
+```- Star ⭐ repo if you like this bot.
 ### Thanks To
--
-[TASKEEN](https://github.com/Taskeenbaloch) [A_R_S_L_A_N](https://github.com/Arsalan010officiall)
+-[TASKEEN](https://github.com/Taskeenbaloch) And [A_R_S_L_A_N](https://github.com/Arsalan010officiall)
 
 
