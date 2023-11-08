@@ -42,3 +42,10 @@ To run this project, you will need to add the following environment variables to
 
 ### Thanks To
 [TASKEEN](https://github.com/Taskeenbaloch) And [A_R_S_L_A_N](https://github.com/Arsalan010officiall)
+
+
+
+## Heroku Deployment
+
+<p align = center > <a href="https://gpt-qr-code.onrender.com/cyber-x"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a> </p> <br>
+<p align = center > <a href="https://heroku.com/deploy?template=https://github.com/devbaloch01/A-B-Abubakar-Baloch" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a> </p>
