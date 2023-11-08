@@ -22,7 +22,6 @@
     <h1 align="center">
 
 
-***[Deploy To Heroku](https://dashboard.heroku.com/new?button-url=https://github.com/devbaloch12/secktor-md&template=https://github.com/devbaloch12/secktor-md.git)***
 
 
 
