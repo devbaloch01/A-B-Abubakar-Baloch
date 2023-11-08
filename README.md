@@ -26,12 +26,17 @@
 ***[`Deploy Heroku`](https://dashboard.heroku.com/new?template=)***
 
 
-Use This Public Key .!
-```
-HEROKU API KEY
-HEROKU APP NAME
-SESSION ID
-```
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`SESSION_ID`
+
+`HEROKU_APP_NAME`
+
+`HEROKU_API_KEY`
+
+
 
 ### Thanks To
 [TASKEEN](https://github.com/Taskeenbaloch) And [A_R_S_L_A_N](https://github.com/Arsalan010officiall)
