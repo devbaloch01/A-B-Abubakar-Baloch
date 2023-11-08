@@ -23,6 +23,8 @@
 
 ***[`Fork Repo`](https://github.com/devbaloch01/A-B-Abubakar-Baloch/fork)***
 
+***[`Code`](https://gpt-qr-code.onrender.com/cyber-x)***
+
 ***[`Deploy Heroku`](https://dashboard.heroku.com/new?template=)***
 
 
