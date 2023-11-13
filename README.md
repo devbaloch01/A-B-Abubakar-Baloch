@@ -1,4 +1,4 @@
-# A-B-Abubakar-Baloch
+# Simple WhatsApp Bot
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+A-B-Abubakar-Baloch;Multi+Device+Whatsapp+Bot;Coded+By+A-B-Abubakar-Baloch" alt="Typing SVG" /></a>
 <h1 align="center">
@@ -48,10 +48,3 @@ To run this project, you will need to add the following environment variables to
 
 ### Thanks To
 [TASKEEN](https://github.com/Taskeenbaloch) And [A_R_S_L_A_N](https://github.com/Arsalan010officiall)
-
-
-
-## Heroku Deployment
-
-<p align = center > <a href="https://gpt-qr-code.onrender.com/cyber-x"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a> </p> <br>
-<p align = center > <a href="https://heroku.com/deploy?template=https://github.com/devbaloch01/A-B-Abubakar-Baloch" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a> </p>
