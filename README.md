@@ -21,17 +21,17 @@
     <img alt="devbaloch docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
     <h1 align="center">
       
-## 1 Steps 
+## Steps 1 👋
 <p align="center">  
   <a href="https://github.com/devbaloch01/A-B-Abubakar-Baloch/fork">
     <img alt="devbaloch docs" height="300" src="https://telegra.ph/file/730b958e4c2163dc29af7.jpg">
     <h1 align="center">
-      
-***[`Fork Repo`](https://github.com/devbaloch01/A-B-Abubakar-Baloch/fork)***
 
-***[`Code`](https://gpt-qr-code.onrender.com/cyber-x)***
-
-***[`Deploy Heroku`](https://dashboard.heroku.com/new?template=)***
+## Steps 2 👋
+<p align="center">  
+  <a href="https://dashboard.heroku.com/new?template=">
+    <img alt="devbaloch docs" height="300" src="https://i.imgur.com/KN8c52j.jpg">
+    <h1 align="center">
 
 
 ## Environment Variables
