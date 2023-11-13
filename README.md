@@ -20,7 +20,13 @@
   <a href="https://youtube.com/watch?v=3nRlAHMJuOg">
     <img alt="devbaloch docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
     <h1 align="center">
-
+      
+## 1 Steps 
+<p align="center">  
+  <a href="https://github.com/devbaloch01/A-B-Abubakar-Baloch/fork">
+    <img alt="devbaloch docs" height="300" src="https://telegra.ph/file/730b958e4c2163dc29af7.jpg">
+    <h1 align="center">
+      
 ***[`Fork Repo`](https://github.com/devbaloch01/A-B-Abubakar-Baloch/fork)***
 
 ***[`Code`](https://gpt-qr-code.onrender.com/cyber-x)***
