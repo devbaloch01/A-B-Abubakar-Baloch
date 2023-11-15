@@ -20,7 +20,14 @@
   <a href="https://youtube.com/watch?v=3nRlAHMJuOg">
     <img alt="devbaloch docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
     <h1 align="center">
-      
+
+
+
+      <div align="center">
+   
+<a href="https://devbaloch/"><img align="center" src="https://telegra.ph/file/194d660bc9a7e03ef3f81.jpg" alt="Scan QR" height="112" width="300" /></a><br>
+
+
 ## Steps 1 👋
 <p align="center">  
   <a href="https://github.com/devbaloch01/A-B-Abubakar-Baloch/fork">
